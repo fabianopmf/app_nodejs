@@ -1,7 +1,6 @@
 config
 controllers
 models
-node_modules
 views
 web
 app_http.js
